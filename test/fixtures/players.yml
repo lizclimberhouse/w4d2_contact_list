@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  points: 1
+  games_played: 1.5
+  golf_handicap: 1.5
+
+two:
+  points: 1
+  games_played: 1.5
+  golf_handicap: 1.5
